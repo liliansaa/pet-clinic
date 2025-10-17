@@ -1,6 +1,6 @@
 name:Workflow
 on:
-  push
+  push:
     branches:
       - feat-devsecops
 
